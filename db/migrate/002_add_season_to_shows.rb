@@ -1,5 +1,5 @@
 #add column season[string]
-class AddSeasonToShow
+class AddSeasonToShow < ActiveRecord::Migration
   def change
   end
 end
