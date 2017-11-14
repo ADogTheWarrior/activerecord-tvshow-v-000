@@ -1,1 +1,1 @@
-#migration code for new show
+#migration code for new shows table
